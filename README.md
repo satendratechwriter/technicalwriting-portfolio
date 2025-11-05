@@ -4,8 +4,6 @@ This repository is a showcase of my technical writing projects - Software User G
 ---
 
 ## 📚 Portfolio Sections
-
-- 
 - [User Guides](./User-Guides/getting-started.md)
 - [OMM](./OMMs/install-guide.md)
 - [Troubleshooting Guides](./TG/install-guide.md)

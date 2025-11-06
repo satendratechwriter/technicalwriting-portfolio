@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Auth: A7037--><!DOCTYPE task PUBLIC "-//NOREGON//DTD DITA Composite//EN" "NoregonDitabase.dtd">
+<task id="C001" outputclass="Repair" xml:lang="en-us">
+<title>Aftertreatment Fuel Injector (AFTFI) Inspection</title>
+<abstract><shortdesc>***</shortdesc></abstract>
+<taskbody>
+<!--<pg="2513">-->
+<section><title>Overview</title>
+<p>Inspect for leaks and damage in the Aftertreatment Fuel Injector (AFTFI).</p>
+</section>
+<section><title>Tools Required</title>
+<p>None</p>
+</section>
+<section><title>Equipment Condition</title>
+<ol>
+<li>Engine cover (dog house) removed.</li>
+</ol>
+</section>
+<section><title>Inspection Procedure</title>
+<ol>
+<li>Inspect AFTFI and exhaust pipe visually for leaks and damage.
+<fig frame="all">
+<title>Figure 1108 Exhaust and Aftertreatment System</title>
+<desc>OEName: 0000359541</desc>
+<image href="\\192.168.192.4\m1-wg\005_Arnold\25_International_Troubleshooting_Rework\04_InputGraphics\Auxiliary_MI184_AftertreatmentFuelInjector(AFTFI)Inspection_GR_0000359541_1of1.jpg" scale="60"/>
+</fig>
+<!--<ol><li>AFTFI bore</li>
+<li>AFTFI gasket</li>
+<li>Coolant Supply and Return line (2)</li>
+<li>AFTFI fuel supply line</li>
+<li>Aftertreatment Fuel Injector (AFTFI)</li></ol>--></li>
+<li>Visually inspect for leaks, kinks, bends, or other damage in the Aftertreatment Fuel Injector (AFTFI) fuel supply line (Figure 1108)<!--(Item D)--> and coolant supply and return lines (Figure 1108)<!--(Item C)-->.</li>
+<!--<pg="2514">-->
+<li>Remove the AFTFI<!--(see <i>Engine Service Manual)</i>--> and discard gasket.</li>
+<li>Perform visual inspection for the following:<ul>
+<li>AFTFI (Figure 1108)<!--(Item E)--> and bore (Figure 1108)<!--(Item A)--> are free of carbon buildup and unrestricted.</li>
+<li>Tip of the AFTFI is free of cracks and other visible damage.</li>
+</ul>
+</li>
+<li>Install AFTFI back<!--(see <i>Engine Service Manual)</i>--> with new gasket.</li></ol>
+</section>
+<section><title>Expected Outcome</title>
+<p>The AFTFI will be inspected for leakage and/or damage by the technician. Also, inspect if the AFTFI fuel supply, and coolant supply and return lines are leaking, kinked, bent, or damaged.</p>
+</section>
+</taskbody>
+</task>

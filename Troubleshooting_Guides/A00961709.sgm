@@ -1,19 +1,7 @@
-<!DOCTYPE SOM1 PUBLIC "-//MRIC//DTD SNAPON MITCHELL1//EN" "som1.dtd">
-<!-- ArborText, Inc., 1988-1998, v.4002 -->
-<som1><article-id id="A00961709"><src-pages pages="563"><serv-cat servcat.name="mechanical">
-<!-- PACCAR - MX13 DIESEL ENGINE EPA17 - UPDATES -->
-<!-- N:\Conversion\SGML_Source\Techbooks\CVG\To Aptara\February_Assignment_02_2.1.19 -->
+<!DOCTYPE SOM1 PUBLIC "-//MRIC//DTD SNAPON MITCHELL1//EN" "som1.dtd"><som1><article-id id="A00961709"><src-pages pages="563"><serv-cat servcat.name="mechanical">
+
 <doc-head>ENGINE</doc-head>
-<doc-subhead>Paccar - MX13 Diesel Engine EPA17 - Updates</doc-subhead>
-<!-- <page="1-563"> -->
-<!-- PACCAR Dealernet -->
-<!-- Chassis No: JD462644 -->
-<!-- Vehicle type: MX_EPA17-MX-13 USA -->
-<!-- P 1435 439604 012 000 -->
-<!-- clean dosing Module, fuel (Engine brake) -->
-<!-- <page="2-563"> -->
-<!-- Skelled by CJM 3/4/19 -->
-<!-- Edited by Amila -->
+<doc-subhead>Paccar - MX13 Diesel Engine EPA17 - Updates</doc-subhead><!-- Edited by Amila -->
 <!-- QA by Satendra-->
 <!-- Sample Section 1 starts here -->
 <info-obj id="S15383452342019030400000"><title>SERVICING</title>
